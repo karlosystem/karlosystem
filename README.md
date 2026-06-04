@@ -6,6 +6,22 @@ Soy un apasionado de la tecnología con **13 años de experiencia** transformand
 
 ---
 
+## 📬 ¡Hablemos de tu próximo proyecto!
+
+¿Tienes una idea en mente, necesitas optimizar una plataforma existente o deseas digitalizar tu negocio? Estoy disponible para proyectos Freelance y consultorías tecnológicas.
+
+<p align="left">
+  <!-- WhatsApp -->
+  <a href="https://wa.me/51984650422" target="_blank">
+    <img src="https://img.shields.io/badge/Contáctame_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp de Carlos Marquina" />
+  </a>
+</p>
+
+### Otras vías de contacto directo:
+* 🌐 **Sitio Web:** [carlos-marquina.com](https://www.carlos-marquina.com) [cite: Carlos Alberto Marquina Ch. karlosystem Programador de sistemas, 13 años de experiencia desarrollando paginas web, sistemas informaticos. Edit profile karlosystem Lima - Perú karlosystem@gmail.com www.carlos-marquina.com. Image: image_ee786c.png]
+* 📧 **Correo Electrónico:** karlosystem@gmail.com [cite: Carlos Alberto Marquina Ch. karlosystem Programador de sistemas, 13 años de experiencia desarrollando paginas web, sistemas informaticos. Edit profile karlosystem Lima - Perú karlosystem@gmail.com www.carlos-marquina.com. Image: image_ee786c.png]
+
+
 ## 🛠️ Mi Stack Tecnológico
 
 Aquí tienes las principales tecnologías y herramientas que domino para dar vida a proyectos digitales:
