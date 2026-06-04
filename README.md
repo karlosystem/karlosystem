@@ -17,11 +17,6 @@ Soy un apasionado de la tecnología con **13 años de experiencia** transformand
   </a>
 </p>
 
-### Otras vías de contacto directo:
-* 🌐 **Sitio Web:** [carlos-marquina.com](https://www.carlos-marquina.com) [cite: Carlos Alberto Marquina Ch. karlosystem Programador de sistemas, 13 años de experiencia desarrollando paginas web, sistemas informaticos. Edit profile karlosystem Lima - Perú karlosystem@gmail.com www.carlos-marquina.com. Image: image_ee786c.png]
-* 📧 **Correo Electrónico:** karlosystem@gmail.com [cite: Carlos Alberto Marquina Ch. karlosystem Programador de sistemas, 13 años de experiencia desarrollando paginas web, sistemas informaticos. Edit profile karlosystem Lima - Perú karlosystem@gmail.com www.carlos-marquina.com. Image: image_ee786c.png]
-
-
 ## 🛠️ Mi Stack Tecnológico
 
 Aquí tienes las principales tecnologías y herramientas que domino para dar vida a proyectos digitales:
