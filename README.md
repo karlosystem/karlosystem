@@ -30,12 +30,12 @@ Aquí tienes las principales tecnologías y herramientas que domino para dar vid
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=karlosystem&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de karlosystem" width="48%" />
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=karlosystem&layout=compact&theme=tokyonight&langs_count=7" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlosystem&theme=tokyonight&area=true" alt="Gráfico de Actividad de karlosystem" width="100%" />
 </p>
+
 ## 📬 Conéctate Conmigo
 
 ¿Tienes un proyecto en mente o quieres conversar sobre desarrollo de software?
