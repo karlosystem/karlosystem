@@ -12,7 +12,7 @@ Soy un apasionado de la tecnología con **13 años de experiencia** transformand
 
 <p align="left">
   <!-- WhatsApp -->
-  <a href="https://wa.me/51984650422" target="_blank">
+  <a href="https://wa.me/51930888168" target="_blank">
     <img src="https://img.shields.io/badge/Contáctame_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp de Carlos Marquina" />
   </a>
 </p>
