@@ -1,16 +1,47 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Marquina 👋
 
-<!--
-**karlosystem/karlosystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Full-Stack & Diseñador Web de Lima, Perú
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología con **13 años de experiencia** transformando ideas en soluciones digitales robustas, eficientes y auto-gestionables. Me especializo en la arquitectura de sistemas informáticos, desarrollo de plataformas e-commerce y optimización de software a medida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+Aquí tienes las principales tecnologías y herramientas que domino para dar vida a proyectos digitales:
+
+<p align="left">
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <!-- Laravel -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <!-- Vue 3 -->
+  <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue3" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+### Otras herramientas y entornos:
+* **Backend & BD:** Arquitecturas limpias en PHP 8+, Framework Laravel, MariaDB, MySQL.
+* **Frontend & UI:** Vue 3 de forma interactiva, componentes modulares, diseño web adaptable y responsivo.
+* **Infraestructura:** Despliegue en la nube mediante servidores AWS (LAMP stack bajo entornos Linux/Apache).
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karlosystem&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de karlosystem" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosystem&layout=compact&theme=tokyonight&langs_count=7" alt="Lenguajes más usados de karlosystem" height="192px" />
+</p>
+
+---
+
+## 📬 Conéctate Conmigo
+
+¿Tienes un proyecto en mente o quieres conversar sobre desarrollo de software?
+
+* 🌐 **Sitio Web:** [carlos-marquina.com](https://www.carlos-marquina.com)
+* 📧 **Correo Electrónico:** karlosystem@gmail.com
