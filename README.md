@@ -21,15 +21,46 @@ Soy un apasionado de la tecnología con **13 años de experiencia** transformand
 
 Aquí tienes las principales tecnologías y herramientas que domino para dar vida a proyectos digitales:
 
+### 💻 Desarrollo Backend & Frameworks
 <p align="left">
   <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <!-- Laravel -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <!-- CodeIgniter -->
+  <img src="https://img.shields.io/badge/CodeIgniter-EEEEEE?style=for-the-badge&logo=codeigniter&logoColor=EF4223" alt="CodeIgniter" />
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <!-- Express -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+  <!-- Visual Basic 6 -->
+  <img src="https://img.shields.io/badge/Visual_Basic_6.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB6" />
+  <!-- Windows Forms -->
+  <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WindowsForms" />
+</p>
+
+### 🌐 Desarrollo Frontend & UI
+<p align="left">
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <!-- Vue 3 -->
   <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue3" />
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- Bootstrap 5 -->
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap5" />
+</p>
+
+### 🗄️ Bases de Datos e Infraestructura
+<p align="left">
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- SQL Server -->
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer" />
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <!-- AWS -->
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
