@@ -32,10 +32,9 @@ Aquí tienes las principales tecnologías y herramientas que domino para dar vid
 
 ## 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlosystem&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de karlosystem" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosystem&layout=compact&theme=tokyonight&langs_count=7" alt="Lenguajes más usados de karlosystem" height="192px" />
-</p>
+![Estadísticas de karlosystem](https://github-readme-stats.vercel.app/api?username=karlosystem&show_icons=true&theme=tokyonight&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosystem&layout=compact&theme=tokyonight&langs_count=7)
 
 ---
 
