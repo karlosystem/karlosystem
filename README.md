@@ -70,7 +70,7 @@ Aquí tienes las principales tecnologías y herramientas que domino para dar vid
 ### Otras herramientas y entornos:
 * **Backend & BD:** Arquitecturas limpias en PHP 8+, Framework Laravel, MariaDB, MySQL.
 * **Frontend & UI:** Vue 3 de forma interactiva, componentes modulares, diseño web adaptable y responsivo.
-* **Infraestructura:** Despliegue en la nube mediante servidores AWS (LAMP stack bajo entornos Linux/Apache).
+* **Cloud & Servicios:** Integración con Firebase para almacenamiento de datos en tiempo real y optimización de recursos multimedia mediante Cloudinary.
 
 ---
 
