@@ -51,7 +51,7 @@ Aquí tienes las principales tecnologías y herramientas que domino para dar vid
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap5" />
 </p>
 
-### 🗄️ Bases de Datos e Infraestructura
+### 🗄️ Bases de Datos, Cloud & Servicios
 <p align="left">
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -61,8 +61,10 @@ Aquí tienes las principales tecnologías y herramientas que domino para dar vid
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <!-- Firebase -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <!-- Cloudinary -->
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
 ### Otras herramientas y entornos:
